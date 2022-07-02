@@ -1,16 +1,18 @@
-### Hi there 👋
+## About me
 
-<!--
-**martinstnv/martinstnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :seedling: Application & Cloud Security Engineer
+- :cookie: Former Web Developer
+- :shipit: Bug Bounty Hunter
+- :coffee: Casual CTF Player
 
-Here are some ideas to get you started:
+## Experienced with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Penetration Testing
+- Application Security
+- Cloud Security
+- Web Development
+
+## Socials
+- [Intigriti](https://app.intigriti.com/profile/stnv)
+- [Twitter](https://twitter.com/MartinStnv)
+- [Linkedin](https://www.linkedin.com/in/stnv/)
