@@ -1,6 +1,7 @@
 ## About me
 
-- :seedling: Application & Cloud Security Engineer
+- :ninja: Penetration Tester
+- :seedling: Application Security Engineer
 - :cookie: Former Web Developer
 - :shipit: Bug Bounty Hunter
 - :coffee: Casual CTF Player
