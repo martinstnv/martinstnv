@@ -1,7 +1,7 @@
 ## About me
 
-- :ninja: Penetration Tester
-- :lock: Application Security Engineer
+- :robot: Penetration Tester
+- :mechanical_arm: Application Security Engineer
 - :cookie: Former Web Developer
 - :shipit: Bug Bounty Hunter
 - :coffee: Casual CTF Player
