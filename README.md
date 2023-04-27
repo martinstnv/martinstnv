@@ -12,7 +12,7 @@
 
 ## Certifications
 
-- :trophy: [eLearnSecurity Web Penetration Tester](/certificates/eWPT/certificate.pdf)
+- :trophy: [eLearnSecurity Web Application Penetration Tester](/certificates/eWPT/certificate.pdf)
 - :trophy: [eLearnSecurity Junior Penetration Tester Version 2](/certificates/eJPTv2/certificate.pdf)
 - :trophy: [eLearnSecurity Junior Penetration Tester](/certificates/eJPT/certificate.pdf)
 - :trophy: [Microsoft Certified Security, Compliance and Identity Managament](/certificates/SC-900/certificate.pdf)
