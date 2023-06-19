@@ -12,6 +12,7 @@
 
 ## Certifications
 
+- :trophy: Burp Suite Certified Practitioner?
 - :trophy: [eLearnSecurity Web Application Penetration Tester](/certificates/eWPT/certificate.pdf)
 - :trophy: [eLearnSecurity Junior Penetration Tester Version 2](/certificates/eJPTv2/certificate.pdf)
 - :trophy: [eLearnSecurity Junior Penetration Tester](/certificates/eJPT/certificate.pdf)
