@@ -21,6 +21,7 @@
 
 ## Public Speaking
 
+- :dart: DEV.BG: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
 - :dart: QAD Midwest User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
 - :dart: QAD Southeast User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
 - :dart: Cyber Security Talks Bulgaria 2022: *Cyber Security Purple Teaming 101*
