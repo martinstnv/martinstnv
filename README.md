@@ -30,7 +30,7 @@
 
 ## Achievements
 
-- :goberserk: Uncovering a phishing campaign and tracking down the suspects using hacking and open source intelligence.
+- :goberserk: Uncovering a phishing campaign and tracking down the suspects through hacking and open source intelligence.
 
 ## Socials
 
