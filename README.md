@@ -28,6 +28,10 @@
 - :dart: OWASP Sofia 2022: *Why Hackers Love JavaScript?*
 - :dart: BSides Sofia 2022: *Front-end Security*
 
+## Achievements
+
+- :goberserk: Uncovering a phishing campaign and tracking down the suspects using hacking and open source intelligence.
+
 ## Socials
 
 - [Blog](https://blog.martinstnv.com)
