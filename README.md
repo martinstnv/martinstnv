@@ -21,12 +21,13 @@
 
 ## Public Speaking
 
+- :dart: Cyber Security Talks Bulgaria: *From Source to Suspect*
 - :dart: DEV.BG: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
 - :dart: QAD Midwest User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
 - :dart: QAD Southeast User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
-- :dart: Cyber Security Talks Bulgaria 2022: *Cyber Security Purple Teaming 101*
-- :dart: OWASP Sofia 2022: *Why Hackers Love JavaScript?*
-- :dart: BSides Sofia 2022: *Front-end Security*
+- :dart: Cyber Security Talks Bulgaria: *Cyber Security Purple Teaming 101*
+- :dart: OWASP Sofia: *Why Hackers Love JavaScript?*
+- :dart: BSides Sofia: *Front-end Security*
 
 ## Socials
 
