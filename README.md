@@ -12,6 +12,7 @@
 
 ## Certifications
 
+- :trophy: [OffSec Wireless Professional](https://www.credential.net/6b698edb-df52-49f3-87e8-a639d8497bcb)
 - :trophy: [OffSec Certified Professional](https://www.credential.net/4fe75215-134a-4dd0-9dcc-b07bc7cd823e)
 - :trophy: [Burp Suite Certified Practitioner](/certificates/BSCP/certificate.pdf)
 - :trophy: [eLearnSecurity Web Application Penetration Tester](/certificates/eWPT/certificate.pdf)
