@@ -17,9 +17,9 @@
 - :trophy: [OffSec Wireless Professional](https://www.credential.net/6b698edb-df52-49f3-87e8-a639d8497bcb)
 - :trophy: [OffSec Certified Professional](https://www.credential.net/4fe75215-134a-4dd0-9dcc-b07bc7cd823e)
 - :trophy: [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/7c37dc41cb748059)
-- :trophy: [eLearnSecurity Web Application Penetration Tester](/certificates/eWPT/certificate.pdf)
-- :trophy: [eLearnSecurity Junior Penetration Tester Version 2](/certificates/eJPTv2/certificate.pdf)
-- :trophy: [eLearnSecurity Junior Penetration Tester](/certificates/eJPT/certificate.pdf)
+- :trophy: [eLearnSecurity Web Application Penetration Tester](https://www.credential.net/a5cb2b91-84f2-4eb1-a122-ab3a5d1401f4)
+- :trophy: [eLearnSecurity Junior Penetration Tester Version 2](https://www.credential.net/59382d21-310a-4a09-a140-6a80d6b7269e)
+- :trophy: [eLearnSecurity Junior Penetration Tester](https://www.credential.net/5e1547fd-d538-4051-9ddb-07d0ab5e6273)
 - :trophy: [Microsoft Certified Security, Compliance and Identity Managament](https://www.credly.com/badges/17e66cad-0c86-4241-9b84-5228b391cbec)
 - :trophy: [Microsoft Certified Azure Fundamentals](https://www.credly.com/badges/8b8a5bc5-0a39-4581-b705-9cce8a61254c)
 
