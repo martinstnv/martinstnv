@@ -12,7 +12,7 @@
 
 ## Certifications
 
-![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689) ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84692809) 
+![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689) ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84692809) ![eWPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79653302?key=83fdf5e4b981e8d58b4c9a533077de1970549dfcbe936647b60fcd1c60b05e9f) ![eJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81521706?key=713462b7b2d644d09d94e70fefd59eed70309b12d5f0249a675cbe6cd54776a4)
 
 - :trophy: [OffSec Wireless Professional](https://www.credential.net/6b698edb-df52-49f3-87e8-a639d8497bcb)
 - :trophy: [OffSec Certified Professional](https://www.credential.net/4fe75215-134a-4dd0-9dcc-b07bc7cd823e)
