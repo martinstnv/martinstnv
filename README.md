@@ -12,8 +12,6 @@
 
 ## Certifications
 
-![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689) ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84692809)
-
 - :trophy: [OffSec Wireless Professional](https://www.credential.net/6b698edb-df52-49f3-87e8-a639d8497bcb)
 - :trophy: [OffSec Certified Professional](https://www.credential.net/4fe75215-134a-4dd0-9dcc-b07bc7cd823e)
 - :trophy: [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/7c37dc41cb748059)
