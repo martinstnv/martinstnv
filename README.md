@@ -36,3 +36,4 @@
 - [Twitter](https://twitter.com/martinstnv)
 - [Mastodon](https://infosec.exchange/@martinstnv)
 - [Linkedin](https://bg.linkedin.com/in/martinstnv)
+- [Threads](https://www.threads.net/@martinstnv)
