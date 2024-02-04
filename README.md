@@ -7,10 +7,10 @@
 
 ## Career
 
-- :beginner: Penetration Tester
-- :beginner: Cloud Security Engineer
-- :beginner: Application Security Engineer
-- :beginner: Software Engineer
+- :small_orange_diamond: Penetration Tester
+- :small_orange_diamond: Cloud Security Engineer
+- :small_orange_diamond: Application Security Engineer
+- :small_orange_diamond: Software Engineer
 
 ## Education
 
