@@ -1,3 +1,10 @@
+## Interests
+
+- :small_blue_diamond: Reverse Engineering
+- :small_blue_diamond: Malware Development
+- :small_blue_diamond: Exploit Development
+- :small_blue_diamond: Vulnerability Research
+
 ## Career
 
 - :beginner: Penetration Tester
