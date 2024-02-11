@@ -19,6 +19,11 @@
 
 ## Certifications
 
+
+![KLCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94532864)
+![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689)
+![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84692809)
+
 - :trophy: [Kali Linux Certified Professional](https://www.credential.net/b17befe7-f771-4c86-8110-8c086a5ccceb)
 - :trophy: [OffSec Wireless Professional](https://www.credential.net/6b698edb-df52-49f3-87e8-a639d8497bcb)
 - :trophy: [OffSec Certified Professional](https://www.credential.net/4fe75215-134a-4dd0-9dcc-b07bc7cd823e)
