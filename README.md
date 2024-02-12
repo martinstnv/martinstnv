@@ -35,8 +35,8 @@
 
 ## Socials
 
-- [Blog](https://blog.martinstnv.com)
-- [Twitter](https://twitter.com/martinstnv)
-- [Mastodon](https://infosec.exchange/@martinstnv)
-- [Linkedin](https://bg.linkedin.com/in/martinstnv)
-- [Threads](https://www.threads.net/@martinstnv)
+- :busts_in_silhouette: [Blog](https://blog.martinstnv.com)
+- :busts_in_silhouette: [Twitter](https://twitter.com/martinstnv)
+- :busts_in_silhouette: [Mastodon](https://infosec.exchange/@martinstnv)
+- :busts_in_silhouette: [Linkedin](https://bg.linkedin.com/in/martinstnv)
+- :busts_in_silhouette: [Threads](https://www.threads.net/@martinstnv)
