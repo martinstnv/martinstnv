@@ -1,16 +1,16 @@
 ## Interests
 
-- :small_blue_diamond: Reverse Engineering
-- :small_blue_diamond: Malware Development
-- :small_blue_diamond: Exploit Development
-- :small_blue_diamond: Vulnerability Research
+- :dart: Reverse Engineering
+- :dart: Malware Development
+- :dart: Exploit Development
+- :dart: Vulnerability Research
 
 ## Career
 
-- :small_orange_diamond: Penetration Tester
-- :small_orange_diamond: Cloud Security Engineer
-- :small_orange_diamond: Application Security Engineer
-- :small_orange_diamond: Software Engineer
+- :pushpin: Penetration Tester
+- :pushpin: Cloud Security Engineer
+- :pushpin: Application Security Engineer
+- :pushpin: Software Engineer
 
 ## Education
 
@@ -25,13 +25,13 @@
 
 ## Public Speaking
 
-- :dart: Cyber Security Talks Bulgaria: *From Source to Suspect*
-- :dart: DEV.BG: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
-- :dart: QAD Midwest User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
-- :dart: QAD Southeast User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
-- :dart: Cyber Security Talks Bulgaria: *Cyber Security Purple Teaming 101*
-- :dart: OWASP Sofia: *Why Hackers Love JavaScript?*
-- :dart: BSides Sofia: *Front-end Security*
+- :loudspeaker: Cyber Security Talks Bulgaria: *From Source to Suspect*
+- :loudspeaker: DEV.BG: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
+- :loudspeaker: QAD Midwest User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
+- :loudspeaker: QAD Southeast User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
+- :loudspeaker: Cyber Security Talks Bulgaria: *Cyber Security Purple Teaming 101*
+- :loudspeaker: OWASP Sofia: *Why Hackers Love JavaScript?*
+- :loudspeaker: BSides Sofia: *Front-end Security*
 
 ## Socials
 
