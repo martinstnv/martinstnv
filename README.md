@@ -7,10 +7,10 @@
 
 ## Career
 
-- :pushpin: Penetration Tester
-- :pushpin: Cloud Security Engineer
-- :pushpin: Application Security Engineer
-- :pushpin: Software Engineer
+- :zap: Penetration Tester
+- :zap: Cloud Security Engineer
+- :zap: Application Security Engineer
+- :zap: Software Engineer
 
 ## Education
 
@@ -35,8 +35,8 @@
 
 ## Socials
 
-- :busts_in_silhouette: [Blog](https://blog.martinstnv.com)
-- :busts_in_silhouette: [Twitter](https://twitter.com/martinstnv)
-- :busts_in_silhouette: [Mastodon](https://infosec.exchange/@martinstnv)
-- :busts_in_silhouette: [Linkedin](https://bg.linkedin.com/in/martinstnv)
-- :busts_in_silhouette: [Threads](https://www.threads.net/@martinstnv)
+- :link: [Blog](https://blog.martinstnv.com)
+- :link: [Twitter](https://twitter.com/martinstnv)
+- :link: [Mastodon](https://infosec.exchange/@martinstnv)
+- :link: [Linkedin](https://bg.linkedin.com/in/martinstnv)
+- :link: [Threads](https://www.threads.net/@martinstnv)
