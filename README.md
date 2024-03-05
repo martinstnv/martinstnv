@@ -25,13 +25,13 @@
 
 ## Public Speaking
 
-- :loudspeaker: Cyber Security Talks Bulgaria: *From Source to Suspect*
-- :loudspeaker: DEV.BG: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
-- :loudspeaker: QAD Midwest User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
-- :loudspeaker: QAD Southeast User Conference: *Lessons learned from a dedicated Linux ERP penetration test*
-- :loudspeaker: Cyber Security Talks Bulgaria: *Cyber Security Purple Teaming 101*
-- :loudspeaker: OWASP Sofia: *Why Hackers Love JavaScript?*
-- :loudspeaker: BSides Sofia: *Front-end Security*
+- :loudspeaker: **Cyber Security Talks Bulgaria**: *From Source to Suspect*
+- :loudspeaker: **DEV.BG**: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
+- :loudspeaker: **QAD Midwest User Conference**: *Lessons learned from a dedicated Linux ERP penetration test*
+- :loudspeaker: **QAD Southeast User Conference**: *Lessons learned from a dedicated Linux ERP penetration test*
+- :loudspeaker: **Cyber Security Talks Bulgaria**: *Cyber Security Purple Teaming 101*
+- :loudspeaker: **OWASP Sofia**: *Why Hackers Love JavaScript?*
+- :loudspeaker: **BSides Sofia**: *Front-end Security*
 
 ## Socials
 
