@@ -33,6 +33,10 @@
 - :loudspeaker: **OWASP Sofia**: *Why Hackers Love JavaScript?*
 - :loudspeaker: **BSides Sofia**: *Front-end Security*
 
+## CVEs
+
+It's lonely in here :eyes:
+
 ## Socials
 
 - :link: [Blog](https://blog.martinstnv.com)
