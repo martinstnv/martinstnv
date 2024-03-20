@@ -27,8 +27,8 @@
 
  - Burp Suite Certified Professional
  - eLearnSecurity Web Penetration Tester
- - eLearnSecurity Web Junior Tester V2
- - eLearnSecurity Web Junior Tester
+ - eLearnSecurity Junior Penetration Tester V2
+ - eLearnSecurity Junior Penetration Tester
  - Microsoft Certified: Security, Compliance, and Identity Fundamentals
  - Microsoft Certified: Azure Fundamentals
 
