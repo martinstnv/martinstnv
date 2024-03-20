@@ -1,23 +1,23 @@
-## Interests
+## Interests :dart:
 
-- :dart: Reverse Engineering
-- :dart: Malware Development
-- :dart: Exploit Development
-- :dart: Vulnerability Research
+- Reverse Engineering
+- Malware Development
+- Exploit Development
+- Vulnerability Research
 
-## Career
+## Career :zap:
 
-- :zap: Penetration Tester
-- :zap: Cloud Security Engineer
-- :zap: Application Security Engineer
-- :zap: Software Engineer
+- Penetration Tester
+- Cloud Security Engineer
+- Application Security Engineer
+- Software Engineer
 
-## Education
+## Education :mortar_board:
 
-- :mortar_board: Master's Degree in Information Security
-- :mortar_board: Bachelor's Degree in Software Engineering
+- Master's Degree in Information Security
+- Bachelor's Degree in Software Engineering
 
-## Certifications
+## Certifications :trophy:
 
 ![KLCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94532864)
 ![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689)
@@ -32,24 +32,24 @@
  - Microsoft Certified: Security, Compliance, and Identity Fundamentals
  - Microsoft Certified: Azure Fundamentals
 
-## Public Speaking
+## Public Speaking :loudspeaker:
 
-- :loudspeaker: **Cyber Security Talks Bulgaria**: *From Source to Suspect*
-- :loudspeaker: **DEV.BG**: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
-- :loudspeaker: **QAD Midwest User Conference**: *Lessons learned from a dedicated Linux ERP penetration test*
-- :loudspeaker: **QAD Southeast User Conference**: *Lessons learned from a dedicated Linux ERP penetration test*
-- :loudspeaker: **Cyber Security Talks Bulgaria**: *Cyber Security Purple Teaming 101*
-- :loudspeaker: **OWASP Sofia**: *Why Hackers Love JavaScript?*
-- :loudspeaker: **BSides Sofia**: *Front-end Security*
+- **Cyber Security Talks Bulgaria**: *From Source to Suspect*
+- **DEV.BG**: *From Flaws to Fortresses. Enhancing Cybersecurity by Catching Vulnerabilities Early*
+- **QAD Midwest User Conference**: *Lessons learned from a dedicated Linux ERP penetration test*
+- **QAD Southeast User Conference**: *Lessons learned from a dedicated Linux ERP penetration test*
+- **Cyber Security Talks Bulgaria**: *Cyber Security Purple Teaming 101*
+- **OWASP Sofia**: *Why Hackers Love JavaScript?*
+- **BSides Sofia**: *Front-end Security*
 
-## CVEs
+## CVEs :medal:
 
 It's lonely in here :eyes:
 
-## Socials
+## Socials :link:
 
-- :link: [Blog](https://blog.martinstnv.com)
-- :link: [Twitter](https://twitter.com/martinstnv)
-- :link: [Mastodon](https://infosec.exchange/@martinstnv)
-- :link: [Linkedin](https://bg.linkedin.com/in/martinstnv)
-- :link: [Threads](https://www.threads.net/@martinstnv)
+- [Blog](https://blog.martinstnv.com)
+- [Twitter](https://twitter.com/martinstnv)
+- [Mastodon](https://infosec.exchange/@martinstnv)
+- [Linkedin](https://bg.linkedin.com/in/martinstnv)
+- [Threads](https://www.threads.net/@martinstnv)
