@@ -44,7 +44,7 @@
 
 ## CVEs :medal:
 
-It's lonely in here :eyes:
+- CVE-2024-36510
 
 ## Socials :link:
 
