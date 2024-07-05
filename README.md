@@ -17,6 +17,10 @@
 - Master's Degree in Information Security
 - Bachelor's Degree in Software Engineering
 
+## CVEs :trophy:
+
+- CVE-2024-36510
+
 ## Certifications :trophy:
 
 ![KLCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94532864)
@@ -41,10 +45,6 @@
 - **Cyber Security Talks Bulgaria**: *Cyber Security Purple Teaming 101*
 - **OWASP Sofia**: *Why Hackers Love JavaScript?*
 - **BSides Sofia**: *Front-end Security*
-
-## CVEs :medal:
-
-- CVE-2024-36510
 
 ## Socials :link:
 
