@@ -19,7 +19,7 @@
 
 ## CVEs :trophy:
 
-- CVE-2024-36510
+- [CVE-2024-36510](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-36510)
 
 ## Certifications :trophy:
 
