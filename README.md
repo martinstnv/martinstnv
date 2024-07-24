@@ -21,6 +21,10 @@
 
 - [CVE-2024-36510](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-36510)
 
+## Hall of Fame
+
+- *soon* :eyes: -> [M-Files Security Hall of Fame](https://www.m-files.com/about/trust-center/security-hall-of-fame/)
+
 ## Certifications :trophy:
 
 ![KLCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94532864)
