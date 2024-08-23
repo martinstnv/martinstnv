@@ -7,8 +7,8 @@
 
 ## Career :zap:
 
+- Security Engineer
 - Penetration Tester
-- Cloud Security Engineer
 - Application Security Engineer
 - Software Engineer
 
