@@ -23,7 +23,7 @@
 
 ## Hall of Fame
 
-- *soon* :eyes: -> [M-Files Security Hall of Fame](https://www.m-files.com/about/trust-center/security-hall-of-fame/)
+- [M-Files Security Hall of Fame](https://www.m-files.com/about/trust-center/security-hall-of-fame/)
 
 ## Certifications :trophy:
 
