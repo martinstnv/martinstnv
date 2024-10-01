@@ -31,9 +31,10 @@
 ![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689)
 ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84692809)
 
-... and others:
-
- - Burp Suite Certified Professional
+ - OffSec Certified Professional
+ - OffSec Wireless Professional
+ - Kali Linux Certified Professional
+ - Burp Suite Certified Practitioner
  - eLearnSecurity Web Penetration Tester
  - eLearnSecurity Junior Penetration Tester V2
  - eLearnSecurity Junior Penetration Tester
