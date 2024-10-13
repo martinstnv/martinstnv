@@ -1,15 +1,18 @@
+
+![KLCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94532864)
+![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689)
+![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84692809)
+
 ## Interests :dart:
 
 - Reverse Engineering
 - Malware Development
 - Exploit Development
-- Vulnerability Research
 
 ## Career :zap:
 
 - Security Engineer
 - Penetration Tester
-- Application Security Engineer
 - Software Engineer
 
 ## Education :mortar_board:
@@ -17,19 +20,7 @@
 - Master's Degree in Information Security
 - Bachelor's Degree in Software Engineering
 
-## CVEs :trophy:
-
-- [CVE-2024-36510](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-36510)
-
-## Hall of Fame
-
-- [M-Files Security Hall of Fame](https://www.m-files.com/about/trust-center/security-hall-of-fame/)
-
 ## Certifications :trophy:
-
-![KLCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94532864)
-![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90115689)
-![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84692809)
 
  - OffSec Certified Professional
  - OffSec Wireless Professional
@@ -50,6 +41,14 @@
 - **Cyber Security Talks Bulgaria**: *Cyber Security Purple Teaming 101*
 - **OWASP Sofia**: *Why Hackers Love JavaScript?*
 - **BSides Sofia**: *Front-end Security*
+
+## CVEs :trophy:
+
+- [CVE-2024-36510](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-36510)
+
+## Hall of Fame
+
+- [M-Files Security Hall of Fame](https://www.m-files.com/about/trust-center/security-hall-of-fame/)
 
 ## Socials :link:
 
