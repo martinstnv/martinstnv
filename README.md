@@ -53,7 +53,6 @@
 ## Socials :link:
 
 - [Blog](https://blog.martinstnv.com)
-- [Twitter](https://twitter.com/martinstnv)
 - [Mastodon](https://infosec.exchange/@martinstnv)
+- [Blue Sky](https://bsky.app/profile/martinstnv.bsky.social)
 - [Linkedin](https://bg.linkedin.com/in/martinstnv)
-- [Threads](https://www.threads.net/@martinstnv)
