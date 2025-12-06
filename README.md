@@ -1,16 +1,16 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I'm Martin Stoynov</h3>
 
-<!--
-**martinstnv/martinstnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://blog.martinstnv.com">Research Blog</a> •
+  <a href="https://garden.martinstnv.com">Digital Garden</a> •
+  <a href="https://writeups.martinstnv.com">CTF Writeups</a>
+</p>
 
-Here are some ideas to get you started:
+---
+I’m a security engineer and chapter lead with a strong passion for all aspects of cybersecurity, particularly low-level programming, exploit and malware development, reverse engineering, web security and cloud security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My philosophy is that true expertise comes from mastering fundamentals, practicing relentlessly, and viewing every challenge as an opportunity to learn. I believe in breaking complex concepts into simple, meaningful insights, reinforcing them through consistent practice, and transforming failed attempts into iterative, structured progress.
+
+---
+
+- 📫 Reach me on [Linkedin](http://linkedin.com/in/martinstnv)  
