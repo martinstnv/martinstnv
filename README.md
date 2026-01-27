@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=green&center=true&vCenter=true&width=500&lines=Senior+Security+Engineer;OWASP+Chapter+Lead;Penetration+Tester" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF55&center=true&vCenter=true&width=500&lines=Senior+Security+Engineer;OWASP+Chapter+Leader;Lead+Penetration+Tester" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,6 @@
 </div>
 
 ---
-I’m a security engineer and chapter lead with a strong passion for all aspects of cybersecurity, particularly low-level programming, exploit and malware development, reverse engineering, web security and cloud security.
 
 My philosophy is that true expertise comes from mastering fundamentals, practicing relentlessly, and viewing every challenge as an opportunity to learn. I believe in breaking complex concepts into simple, meaningful insights, reinforcing them through consistent practice, and transforming failed attempts into iterative, structured progress.
 
