@@ -1,5 +1,11 @@
 <h3 align="center">👋 Hi there, I'm Martin Stoynov</h3>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Senior+Security+Engineer;OWASP+Chapter+Lead;Penetration+Tester" alt="Typing SVG" />
+  </a>
+</div>
+
 <p align="center">
   <a href="https://blog.martinstnv.com">Research Blog</a> •
   <a href="https://garden.martinstnv.com">Digital Garden</a> •
