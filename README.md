@@ -6,11 +6,11 @@
   </a>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://blog.martinstnv.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> •
   <a href="https://garden.martinstnv.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> •
   <a href="https://writeups.martinstnv.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-</p>
+</div>
 
 ---
 I’m a security engineer and chapter lead with a strong passion for all aspects of cybersecurity, particularly low-level programming, exploit and malware development, reverse engineering, web security and cloud security.
