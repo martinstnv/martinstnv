@@ -1,4 +1,6 @@
-<h3 align="center">👋 Hi there, I'm Martin Stoynov</h3>
+
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Martin+Stoynov&fontSize=70&animation=fadeIn&fontColor=fff)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
