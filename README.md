@@ -13,4 +13,8 @@ My philosophy is that true expertise comes from mastering fundamentals, practici
 
 ---
 
-- 📫 Reach me on [Linkedin](http://linkedin.com/in/martinstnv)  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="kali,gcp,cloudflare,python,js,bash,powershell,obsidian&perline=11" alt="My Skills" />
+  </a>
+</div>
