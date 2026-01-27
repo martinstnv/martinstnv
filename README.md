@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Martin+Stoynov&fontSize=70&animation=fadeIn&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Martin+Stoynov&fontSize=70&animation=fadeIn&fontColor=fff&font=Poppins)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
