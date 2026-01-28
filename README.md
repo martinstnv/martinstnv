@@ -20,6 +20,6 @@ My philosophy is that true expertise comes from mastering fundamentals, practici
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,bash,gcp,cloudflare,python,nodejs,terraform,githubactions,obsidian" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=kali,bash,gcp,cloudflare,python,react,terraform,githubactions,obsidian" alt="Tech Stack" />
   </a>
 </div>
