@@ -19,14 +19,14 @@ My philosophy is that true expertise comes from mastering fundamentals, practici
 ---
 
 <div align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,gcp,cloudflare,python,react,terraform,obsidian" alt="Tech Stack" />
-  </a>
 </div>
 
 
 <div align="center">
-  <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,gcp,cloudflare,python,react,terraform,obsidian" alt="Tech Stack" />
-  </a>
+</div>
+
+<div align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite,snyk,elasticsearch" alt="Tech Stack" />
 </div>
