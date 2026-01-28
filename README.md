@@ -27,5 +27,5 @@ My philosophy is that true expertise comes from mastering fundamentals, practici
 </div>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,c,cpp,ca,assembly&theme=dark" alt="Tech Stack" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,c,cpp,cs,assembly&theme=dark" alt="Tech Stack" />
 </div>
