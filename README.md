@@ -8,8 +8,7 @@
 
 <div align="center">
   <a href="https://blog.martinstnv.com"><img src="https://img.shields.io/badge/Research%20Blog-000000?style=for-the-badge&logoColor=white" alt="Research Blog"/></a>
-  <a href="https://garden.martinstnv.com"><img src="https://img.shields.io/badge/Digital%20Garden-000000?style=for-the-badge&logoColor=white" alt="Digital Garden"/></a>
-  <a href="https://writeups.martinstnv.com"><img src="https://img.shields.io/badge/CTF%20Writeups-000000?style=for-the-badge&logoColor=white" alt="CTF Writeups"/></a>
+  <a href="https://notes.martinstnv.com"><img src="https://img.shields.io/badge/Research%20Notes-000000?style=for-the-badge&logoColor=white" alt="Research Notes"/></a>
 </div>
 
 ---
