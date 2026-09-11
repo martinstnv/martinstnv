@@ -18,5 +18,5 @@ My philosophy is that true expertise comes from mastering fundamentals, practici
 - [GHSA-7h34-cmvx-hg95](https://github.com/zuke-build/zuke/security/advisories/GHSA-7h34-cmvx-hg95)
 - [GHSA-hc8w-3fgv-22pw](https://github.com/zuke-build/zuke/security/advisories/GHSA-hc8w-3fgv-22pw)
 - [GHSA-2rmh-5cw4-33gr](https://github.com/zuke-build/zuke/security/advisories/GHSA-2rmh-5cw4-33gr)
-- [FG-IR-24-071](https://www.fortiguard.com/psirt/FG-IR-24-071)
+- [FG-IR-24-071](https://www.fortiguard.com/psirt/FG-IR-24-071) (CVE-2024-36510)
 
