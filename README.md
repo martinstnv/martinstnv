@@ -1,8 +1,8 @@
 ### Career
-- Application Security Engineer
+- Security Engineer
+- Software Engineer
 - Penetration Tester
-- OWASP Chapter Leader
-- Software Developer
+- Chapter Leader
 
 ---
 
