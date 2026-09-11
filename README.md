@@ -1,14 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Martin+Stoynov&fontSize=70&animation=fadeIn&fontColor=fff&font=Poppins)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Security+Engineer;Chapter+Leader;Penetration+Tester" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://blog.martinstnv.com"><img src="https://img.shields.io/badge/Research%20Blog-000000?style=for-the-badge&logoColor=white" alt="Research Blog"/></a>
-  <a href="https://notes.martinstnv.com"><img src="https://img.shields.io/badge/Research%20Notes-000000?style=for-the-badge&logoColor=white" alt="Research Notes"/></a>
 </div>
 
 ---
