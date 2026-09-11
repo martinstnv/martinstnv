@@ -1,6 +1,5 @@
 ### Career
 - Security Engineer
-- Software Engineer
 - Penetration Tester
 - Chapter Leader
 
@@ -8,9 +7,11 @@
 
 ### Interests
 - Red Teaming
+- Machine Learning
 - Reverse Engineering
 - Malware Development
 - Exploit Development
+- Vulnerability Research
 
 ---
 
