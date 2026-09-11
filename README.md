@@ -1,13 +1,9 @@
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Security+Engineer;Chapter+Leader;Penetration+Tester" />
-  </a>
-</div>
-
----
-
-My philosophy is that true expertise comes from mastering fundamentals, practicing relentlessly, and viewing every challenge as an opportunity to learn. I believe in breaking complex concepts into simple, meaningful insights, reinforcing them through consistent practice, and transforming failed attempts into iterative, structured progress.
+### Careet
+- AI Security Engineer
+- Application Security Engineer
+- Penetration Tester
+- OWASP Chapter Leader
+- Software Developer
 
 ---
 
