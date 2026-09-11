@@ -17,12 +17,6 @@ My philosophy is that true expertise comes from mastering fundamentals, practici
 
 ---
 
-<div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,python,react,terraform,obsidian,burpsuite,snyk,elasticsearch,cloudflare,kali&theme=dark&perline=5" alt="Tech Stack" />
-</div>
-
----
-
 ### Contributions
 
 - [GHSA-42wp-rrh6-vc23](https://github.com/zuke-build/zuke/security/advisories/GHSA-42wp-rrh6-vc23)
