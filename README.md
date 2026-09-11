@@ -23,7 +23,7 @@ My philosophy is that true expertise comes from mastering fundamentals, practici
 
 ---
 
-### Security Advisories
+### Contributions
 
 - [GHSA-42wp-rrh6-vc23](https://github.com/zuke-build/zuke/security/advisories/GHSA-42wp-rrh6-vc23)
 - [GHSA-rrc8-3g8p-cm8p](https://github.com/zuke-build/zuke/security/advisories/GHSA-rrc8-3g8p-cm8p)
