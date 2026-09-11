@@ -1,9 +1,16 @@
-### Careet
-- AI Security Engineer
+### Career
 - Application Security Engineer
 - Penetration Tester
 - OWASP Chapter Leader
 - Software Developer
+
+---
+
+### Interests
+- Red Teaming
+- Reverse Engineering
+- Malware Development
+- Exploit Development
 
 ---
 
