@@ -1,19 +1,3 @@
-### Interests
-- Red Teaming
-- Machine Learning
-- Reverse Engineering
-- Malware Development
-- Exploit Development
-- Vulnerability Research
-
----
-
-### Career
-- Security Engineer
-- Penetration Tester
-- Chapter Leader
-
----
 
 ### Contributions
 - [GHSA-346h-gv9x-5c8x](https://github.com/polkit-org/polkit/security/advisories/GHSA-346h-gv9x-5c8x)
