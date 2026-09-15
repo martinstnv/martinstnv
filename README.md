@@ -11,11 +11,11 @@
 ---
 
 ## Certifications
-- OffSec Web Expert (OSWE)
-- OffSec Certified Professional (OSCP)
-- OffSec Wireless Professional (OSWE)
-- Kali Linux Certified Professional (KLCP)
-- Burp Suite Certified Practitioner (BSCP)
+- [OffSec Web Expert (OSWE)](https://www.credential.net/8ff95dc4-271f-4403-821d-332283e0a259#acc.BaxhtU0y)
+- [OffSec Certified Professional (OSCP)](https://www.credential.net/4fe75215-134a-4dd0-9dcc-b07bc7cd823e)
+- [OffSec Wireless Professional (OSWP)](https://www.credential.net/6b698edb-df52-49f3-87e8-a639d8497bcb)
+- [Kali Linux Certified Professional (KLCP)](https://www.credential.net/b17befe7-f771-4c86-8110-8c086a5ccceb)
+- [Burp Suite Certified Practitioner (BSCP)](https://portswigger.net/web-security/e/c/7c37dc41cb748059)
 
 ---
 
