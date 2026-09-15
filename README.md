@@ -21,6 +21,6 @@
 
 ## Socials
 
-- [Blog](https://blog.martinstnv.com)
+- [Research Blog](https://blog.martinstnv.com)
 - [Infosec Exchange](https://infosec.exchange/@martinstnv)
 - [Linkedin](https://bg.linkedin.com/in/martinstnv)
