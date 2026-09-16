@@ -1,5 +1,7 @@
 
 ### Contributions
+<!-- https://github.com/opencart/opencart/security/advisories/GHSA-8jcr-9h5q-mmc9 -->
+<!-- https://github.com/opencart/opencart/security/advisories/GHSA-vh43-gh88-745w -->
 - [GHSA-346h-gv9x-5c8x](https://github.com/polkit-org/polkit/security/advisories/GHSA-346h-gv9x-5c8x)
 - [GHSA-42wp-rrh6-vc23](https://github.com/zuke-build/zuke/security/advisories/GHSA-42wp-rrh6-vc23)
 - [GHSA-rrc8-3g8p-cm8p](https://github.com/zuke-build/zuke/security/advisories/GHSA-rrc8-3g8p-cm8p)
