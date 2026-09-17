@@ -1,5 +1,10 @@
 
 ### Contributions
+<!-- https://github.com/opencart/opencart/security/advisories/GHSA-g493-52rh-3q35 -->
+<!-- https://github.com/opencart/opencart/security/advisories/GHSA-grfx-2429-8mhh -->
+<!-- https://github.com/opencart/opencart/security/advisories/GHSA-2998-c75r-7xmp -->
+<!-- https://github.com/opencart/opencart/security/advisories/GHSA-xpg3-p6hf-5j4h -->
+<!-- https://github.com/opencart/opencart/security/advisories/GHSA-j9cj-fj36-44vr -->
 <!-- https://github.com/opencart/opencart/security/advisories/GHSA-8jcr-9h5q-mmc9 -->
 <!-- https://github.com/opencart/opencart/security/advisories/GHSA-vh43-gh88-745w -->
 - [GHSA-346h-gv9x-5c8x](https://github.com/polkit-org/polkit/security/advisories/GHSA-346h-gv9x-5c8x)
