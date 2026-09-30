@@ -1,12 +1,22 @@
 
 ### Contributions
-<!-- https://github.com/opencart/opencart/security/advisories/GHSA-g493-52rh-3q35 -->
-<!-- https://github.com/opencart/opencart/security/advisories/GHSA-grfx-2429-8mhh -->
-<!-- https://github.com/opencart/opencart/security/advisories/GHSA-2998-c75r-7xmp -->
-<!-- https://github.com/opencart/opencart/security/advisories/GHSA-xpg3-p6hf-5j4h -->
-<!-- https://github.com/opencart/opencart/security/advisories/GHSA-j9cj-fj36-44vr -->
-<!-- https://github.com/opencart/opencart/security/advisories/GHSA-8jcr-9h5q-mmc9 -->
-<!-- https://github.com/opencart/opencart/security/advisories/GHSA-vh43-gh88-745w -->
+
+<!--
+These ones are still pending verification from the maintainers:
+
+- https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-p7c8-5852-rfr5
+- https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-83g4-646p-h9ch
+- https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-7jr9-r6wh-g57r
+- https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-hp38-f95f-vj9h 
+- https://github.com/opencart/opencart/security/advisories/GHSA-g493-52rh-3q35
+- https://github.com/opencart/opencart/security/advisories/GHSA-grfx-2429-8mhh
+- https://github.com/opencart/opencart/security/advisories/GHSA-2998-c75r-7xmp
+- https://github.com/opencart/opencart/security/advisories/GHSA-xpg3-p6hf-5j4h
+- https://github.com/opencart/opencart/security/advisories/GHSA-j9cj-fj36-44vr
+- https://github.com/opencart/opencart/security/advisories/GHSA-8jcr-9h5q-mmc9
+- https://github.com/opencart/opencart/security/advisories/GHSA-vh43-gh88-745w
+-->
+
 - [GHSA-346h-gv9x-5c8x](https://github.com/polkit-org/polkit/security/advisories/GHSA-346h-gv9x-5c8x)
 - [GHSA-42wp-rrh6-vc23](https://github.com/zuke-build/zuke/security/advisories/GHSA-42wp-rrh6-vc23)
 - [GHSA-rrc8-3g8p-cm8p](https://github.com/zuke-build/zuke/security/advisories/GHSA-rrc8-3g8p-cm8p)
