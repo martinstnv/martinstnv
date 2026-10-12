@@ -4,10 +4,13 @@
 <!--
 These ones are still pending verification from the maintainers:
 
+## OpenAPPA
 - https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-p7c8-5852-rfr5
 - https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-83g4-646p-h9ch
 - https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-7jr9-r6wh-g57r
 - https://github.com/archestra-ai/OpenAPPA/security/advisories/GHSA-hp38-f95f-vj9h 
+
+## OpenCart
 - https://github.com/opencart/opencart/security/advisories/GHSA-g493-52rh-3q35
 - https://github.com/opencart/opencart/security/advisories/GHSA-grfx-2429-8mhh
 - https://github.com/opencart/opencart/security/advisories/GHSA-2998-c75r-7xmp
