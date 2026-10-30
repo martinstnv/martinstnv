@@ -1,10 +1,10 @@
 ## Contributions
 
-- [CVE-2026-119287](https://github.com/zuke-build/zuke/security/advisories/GHSA-2rmh-5cw4-33gr)
-- [CVE-2026-119288](https://github.com/zuke-build/zuke/security/advisories/GHSA-7h34-cmvx-hg95)
-- [CVE-2026-119289](https://github.com/zuke-build/zuke/security/advisories/GHSA-rrc8-3g8p-cm8p)
-- [CVE-2026-119290](https://github.com/zuke-build/zuke/security/advisories/GHSA-42wp-rrh6-vc23)
 - [CVE-2026-119291](https://github.com/zuke-build/zuke/security/advisories/GHSA-hc8w-3fgv-22pw)
+- [CVE-2026-119290](https://github.com/zuke-build/zuke/security/advisories/GHSA-42wp-rrh6-vc23)
+- [CVE-2026-119289](https://github.com/zuke-build/zuke/security/advisories/GHSA-rrc8-3g8p-cm8p)
+- [CVE-2026-119288](https://github.com/zuke-build/zuke/security/advisories/GHSA-7h34-cmvx-hg95)
+- [CVE-2026-119287](https://github.com/zuke-build/zuke/security/advisories/GHSA-2rmh-5cw4-33gr)
 - [CVE-2024-36510](https://www.fortiguard.com/psirt/FG-IR-24-071)
 
 ---
